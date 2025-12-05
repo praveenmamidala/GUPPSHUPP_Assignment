@@ -1,0 +1,30 @@
+1. Hey, I tried reading about transformers again still confusing as hell.
+2. I like when explanations are short, long ones make my brain shut down.
+3. I was checking AI master's programs in Germany today, feels exciting but scary.
+4. I keep jumping between RRB JE prep and AI stuff don’t know where to focus.
+5. Why is every job asking for 3+ years experience man, I’m still in college.
+6. I enjoy Python way more than Java, it just feels smoother.
+7. Sometimes I feel overwhelmed with all this AI content online.
+8. I was practicing PySpark today, not sure if it’s actually useful for ML later.
+9. I love when answers are friendly… formal explanations feel boring.
+10. Today I tried understanding embeddings again, still a bit confusing.
+11. I’m studying ECE but wanting to shift into AI, hope that’s not a bad idea.
+12. Those German universities look so competitive, I don’t know if I’ll get in.
+13. I like learning step-by-step, otherwise I get lost easily.
+14. I really want to build some good projects for my resume.
+15. Sometimes I randomly check RRB cutoffs just to calm myself.
+16. I get stressed when there’s too much technical jargon at once.
+17. I enjoy working on small AI apps, feels motivating.
+18. Trying to balance RRB prep and AI learning is harder than I expected.
+19. I like when someone explains concepts with simple analogies.
+20. I keep worrying if I’m too slow compared to others in AI.
+21. I want to study in Germany mainly because of AI research there.
+22. I get confused between data engineering and ML engineering roles.
+23. I like practical answers more than theory-heavy ones.
+24. I’m trying to improve my profile, even if I don’t have experience.
+25. Some days I feel super motivated, other days totally lost.
+26. I was planning to work on a LangChain project but didn’t know where to start.
+27. I actually enjoy learning when the concept is broken down properly.
+28. Sometimes I wonder if government jobs are safer than private AI jobs.
+29. I like direct answers without too much formality.
+30. I want to build a small AI chatbot soon, just to boost my confidence.
